@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97980c49-dfe4-41e7-b31b-2b28126b43f1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListadoEmpleados.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="302" column="11" selection-start-line="302" selection-start-column="11" selection-end-line="302" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#repararCorreosRepetidos#0;class#ListadoEmpleados#0" />
+                <element signature="method#obtenerCorreosRepetidosArchivo#0;class#ListadoEmpleados#0" />
+                <element signature="method#contarEmpleadosCorreosRepetidos#0;class#ListadoEmpleados#0" />
+                <element signature="method#encontrarRuta#0;class#ListadoEmpleados#0" />
+                <element signature="method#hayDnisRepetidosArchivo#0;class#ListadoEmpleados#0" />
+                <element signature="method#contarEmpleadosDnisRepetidos#0;class#ListadoEmpleados#0" />
+                <element signature="method#obtenerDnisRepetidosArchivo#0;class#ListadoEmpleados#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ListadoTestP2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Empleado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1815">
+              <caret line="131" column="28" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListadoTestP1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assert</find>
+      <find>obtenerDnisRepetidosArchivo</find>
+      <find>hayCorreosRepetidosArchivo</find>
+      <find>filter</find>
+      <find>gr</find>
+      <find>Obtene</find>
+      <find>RepetidosArchivo</find>
+      <find>hayDnisRepetidosArchivo</find>
+      <find>aAsignar</find>
+      <find>procesarAsignacionSector</find>
+      <find>obtenerContadoresSectorRuta</find>
+      <find>obtenerContadoresSectores</find>
+      <find>buscarEmpleadosSinSectorSinRuta</find>
+      <find>buscarEmpleadosConSectorSinRuta</find>
+      <find>buscarEmpleadosSinRuta</find>
+      <find>buscarEmpleadosSinSector</find>
+      <find>sectores</find>
+      <find>buscarEmpleadosSinSectorConRuta</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/ListadoTestP1.java" />
+        <option value="$PROJECT_DIR$/src/ListadoEmpleados.java" />
+        <option value="$PROJECT_DIR$/src/ListadoTestP2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ListadoTestP2.obtenerContadoresSectores">
+    <configuration name="ListadoTestP2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practica1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListadoTestP2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListadoTestP2.obtenerContadorEmpleadosSinSectorSinRuta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practica1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListadoTestP2" />
+      <option name="METHOD_NAME" value="obtenerContadorEmpleadosSinSectorSinRuta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListadoTestP2.obtenerContadoresSectores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practica1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListadoTestP2" />
+      <option name="METHOD_NAME" value="obtenerContadoresSectores" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListadoTestP2.obtenerEmpleadosSinRutaConSector" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practica1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListadoTestP2" />
+      <option name="METHOD_NAME" value="obtenerEmpleadosSinRutaConSector" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListadoTestP2.obtenerEmpleadosSinSectorConRuta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practica1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListadoTestP2" />
+      <option name="METHOD_NAME" value="obtenerEmpleadosSinSectorConRuta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListadoTestP2.obtenerContadoresSectores" />
+        <item itemvalue="JUnit.ListadoTestP2.obtenerContadorEmpleadosSinSectorSinRuta" />
+        <item itemvalue="JUnit.ListadoTestP2.obtenerEmpleadosSinSectorConRuta" />
+        <item itemvalue="JUnit.ListadoTestP2.obtenerEmpleadosSinRutaConSector" />
+        <item itemvalue="JUnit.ListadoTestP2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97980c49-dfe4-41e7-b31b-2b28126b43f1" name="Default Changelist" comment="" />
+      <created>1551948914513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551948914513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.08 at 13h 34m 57s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.08 at 13h 36m 30s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.08 at 13h 57m 44s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.08 at 14h 06m 40s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerEmpleadosSinRutaConSector - 2019.04.08 at 14h 21m 19s.xml">
+      <configuration name="ListadoTestP2.obtenerEmpleadosSinRutaConSector" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerEmpleadosSinSectorConRuta - 2019.04.08 at 14h 38m 50s.xml">
+      <configuration name="ListadoTestP2.obtenerEmpleadosSinSectorConRuta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadorEmpleadosSinSectorSinRuta - 2019.04.08 at 14h 44m 24s.xml">
+      <configuration name="ListadoTestP2.obtenerContadorEmpleadosSinSectorSinRuta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.10 at 10h 44m 22s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.10 at 10h 44m 52s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListadoTestP2_obtenerContadoresSectores - 2019.04.10 at 10h 46m 16s.xml">
+      <configuration name="ListadoTestP2.obtenerContadoresSectores" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.284522" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294702" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23841059" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294702" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294702" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.24962063" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/data/asignacionRUTA1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/data/asignacionSECTOR1.txt" />
+    <entry file="file://$PROJECT_DIR$/data/datos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/asignacionRUTA3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/asignacionRUTA1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/asignacionSECTOR1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ruta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Empleado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="131" column="28" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListadoTestP1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListadoEmpleados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="302" column="11" selection-start-line="302" selection-start-column="11" selection-end-line="302" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#repararCorreosRepetidos#0;class#ListadoEmpleados#0" />
+            <element signature="method#obtenerCorreosRepetidosArchivo#0;class#ListadoEmpleados#0" />
+            <element signature="method#contarEmpleadosCorreosRepetidos#0;class#ListadoEmpleados#0" />
+            <element signature="method#encontrarRuta#0;class#ListadoEmpleados#0" />
+            <element signature="method#hayDnisRepetidosArchivo#0;class#ListadoEmpleados#0" />
+            <element signature="method#contarEmpleadosDnisRepetidos#0;class#ListadoEmpleados#0" />
+            <element signature="method#obtenerDnisRepetidosArchivo#0;class#ListadoEmpleados#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListadoTestP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practica1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ant:ant-junit:1.6.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
